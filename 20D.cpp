@@ -1,6 +1,6 @@
 
-// Aditya Varudkar 
-// 25070123506
+// Rushikesh Gidde 
+// 25070123511
 
 #include <iostream>
 #include <cmath>
